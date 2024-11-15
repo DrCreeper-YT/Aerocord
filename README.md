@@ -10,4 +10,4 @@ Changes:
 - The normal Discord buttons have been removed! (But sadly you won't be able to fullscreen the window for now).
 - Some interfaces have been fixed for LIGHT MODE. For now it's loght-mode exclisve, but, if you have a dark enough wallpaper, I think you can handle it, right? ...right?
 
-https://github.com/DrCreeper-YT/Aerocord/blob/main/Aerocord%20Alpva%20v1.0.2.PNG
+![AC](https://github.com/DrCreeper-YT/Aerocord/blob/main/Aerocord%20Alpva%20v1.0.2.PNG)
